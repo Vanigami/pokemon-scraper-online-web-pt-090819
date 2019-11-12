@@ -3,7 +3,7 @@ class Pokemon
 
 
   def initialize(keywords)
-  
+
   end
 
   def self.save(name, type, db)
